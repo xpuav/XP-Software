@@ -188,7 +188,7 @@
 /*----------------------------------------------------------*/
 
 #define PX4_SPI_BUS_BARO         3
-#define PX4_SPI_BUS_OSD			 3
+#define PX4_SPI_BUS_OSD		 3
 
 #define PX4_I2C_BUS_EXPANSION    2
 #define PX4_I2C_BUS_LED          PX4_I2C_BUS_EXPANSION
