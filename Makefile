@@ -57,7 +57,7 @@ endif
 # in that directory with the target upload.
 
 #  explicity set default build target
-all: xp_fmu-v1
+all: px4_sitl_default
 
 # Parsing
 # --------------------------------------------------------------------
