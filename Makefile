@@ -56,8 +56,8 @@ endif
 # directory build/px4_fmu-v2_default and then call make
 # in that directory with the target upload.
 
-# explicity set default build target
-all: px4_sitl_default
+#  explicity set default build target
+all: xp_fmu-v1
 
 # define a space character to be able to explicitly find it in strings
 space := $(subst ,, )
