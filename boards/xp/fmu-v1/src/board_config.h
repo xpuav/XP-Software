@@ -34,7 +34,7 @@
 /**
  * @file board_config.h
  *
- * omnibusf4sd internal definitions
+ * xp_fmu-v1.0 internal definitions
  */
 
 #pragma once
